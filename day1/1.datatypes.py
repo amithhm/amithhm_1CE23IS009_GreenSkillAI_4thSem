@@ -1,0 +1,14 @@
+city_integer=10
+city_floating=15.55
+city_characterr='A'
+city_Stringss="Hello"
+city_Booleann=True
+l=[1,2,'a']
+d={'s2':1,'s1':2,'apple':3}
+t=(1,2,3,4,5)
+s={1,2,3,4,5}
+print(city_integer,city_floating,city_characterr,city_Stringss,city_Booleann)
+print(l[1])
+print(d['apple'])
+print(t)
+print(type(t))
